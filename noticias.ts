@@ -42,6 +42,30 @@ const noticias = {
     desc: "Los informes internacionales, a nivel latinoamericano, indican que Bolivia ocupa el primer lugar en violencia física contra la mujer y el segundo lugar en violencia sexual, en las edades de 15 a 49 años.",
     autor: "Deyby Loayza",
   },
+  7: {
+    img: "/7.jpeg",
+    url: "/noticias/7",
+
+    title: "¿Todos somos iguales?",
+    desc: "",
+    autor: "Luis Cahuaya",
+  },
+  8: {
+    img: "/8.jpeg",
+    url: "/noticias/8",
+
+    title: "Violencia sexual, un acto despiadado de la humanidad",
+    desc: "La mujer un objeto sexual para la sociedad masculina.",
+    autor: "Jhovani Suxo",
+  },
+  9: {
+    img: "/9.jpeg",
+    url: "/noticias/9",
+
+    title: "¿Trabajo o sufrimiento?",
+    desc: "La violencia laboral consiste en tomar una serie de acciones en contra de otro individuo en el entorno laboral, las cuales pueden ser ejercidas tanto por una figura de autoridad como por uno o más compañeros de trabajo del mismo rango.",
+    autor: "Nataly Calizaya",
+  },
 };
 
 export default noticias;
