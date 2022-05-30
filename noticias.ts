@@ -73,6 +73,13 @@ const noticias = {
     desc: "",
     autor: "ARIANA COSSIO",
   },
+  11: {
+    img: "/11.jpeg",
+    url: "/noticias/11",
+    title: "Maltrato Infantil",
+    desc: "",
+    autor: "Edward Dorado",
+  },
 };
 
 export default noticias;
