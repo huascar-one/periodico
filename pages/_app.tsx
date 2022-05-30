@@ -70,6 +70,9 @@ export default function App({ Component, pageProps }) {
               <li>Deyby Loayza</li>
               <li>Luis Cahuaya</li>
               <li>Natali Calizaya</li>
+              <li>Cristhian Delgadillo</li>
+              <li>Alexander Villena</li>
+              <li>Edward Dorado</li>
             </ul>
           </div>
           <div
