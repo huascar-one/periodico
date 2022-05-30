@@ -36,7 +36,7 @@ const First = () => {
         Debemos unir nuestras fuerzas y acabar con este problema para poder
         vivir mejor.
       </p>
-      <h1>Tipos de violencia intrafamiliar</h1>
+      <h2>Tipos de violencia intrafamiliar</h2>
       <p>
         La violencia dentro de la familia se puede expresar de distintas
         modalidades, siendo varias de estas más difíciles de identificar, aunque
@@ -44,15 +44,8 @@ const First = () => {
         individuos. Los tipos de maltrato intrafamiliar más frecuentes son:
         maltrato físico, Maltrato emocional y maltrato psíquica.
       </p>
-      <h2>Violencia física</h2>
-      <p>
-        <img
-          width="624"
-          height="349"
-          src="file:///C:/Users/casa/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg"
-          alt="VCLM"
-        />
-      </p>
+      <h3>Violencia física</h3>
+      <img src="/41.png" />
       <p>
         La violencia o abuso físico es aquella que ataca de forma directa la
         parte física de la víctima. Esta clase de maltrato puede comenzar con
@@ -65,15 +58,9 @@ const First = () => {
         usa la violencia para obligar sus anhelos, crear miedo y lograr lo cual
         quiere.
       </p>
-      <h2>Violencia emocional</h2>
-      <p>
-        <img
-          width="624"
-          height="342"
-          src="file:///C:/Users/casa/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg"
-          alt="Violencia Familiar"
-        />
-      </p>
+      <h3>Violencia emocional</h3>
+      <img src="/42.jpg" />
+
       <p>
         La violencia emocional es un poco más sutil que la física, empero
         aquello no involucra que sea menos dolorosa o peligrosa. La violencia
@@ -86,15 +73,9 @@ const First = () => {
         cuadros de estrés, malestar o depresión, gracias a la presión padecida
         por esta clase de comportamientos.
       </p>
-      <h2>Violencia psíquica</h2>
-      <p>
-        <img
-          width="450"
-          height="300"
-          src="file:///C:/Users/casa/AppData/Local/Temp/msohtmlclip1/01/clip_image005.jpg"
-          alt="Violencia Intrafamiliar"
-        />
-      </p>
+      <h3>Violencia psíquica</h3>
+      <img src="/43.jpg" />
+
       <p>
         La violencia psíquica o violencia psicológico está íntimamente ligada a
         la violencia emocional a partir del sentido de sus efectos. Quien la

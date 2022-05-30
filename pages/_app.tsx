@@ -59,11 +59,17 @@ export default function App({ Component, pageProps }) {
               marginTop: "30px",
             }}
           >
-            <h3>Editores</h3>
+            <h3>Integrantes</h3>
             <ul>
               <li>Wara Morales</li>
               <li>Jhovani Suxo</li>
               <li>Ariana Cossío</li>
+              <li>Delany Caceres</li>
+              <li>Josue Barrios</li>
+              <li>Johan Santiesteban</li>
+              <li>Deyby Loayza</li>
+              <li>Luis Cahuaya</li>
+              <li>Natali Calizaya</li>
             </ul>
           </div>
           <div

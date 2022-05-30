@@ -13,7 +13,7 @@ const Six = () => {
         través de promulgación de leyes que tienen como meta garantizar una vida
         libre de violencia a la mujer boliviana, sin embargo, datos actuales
         muestran que este fenómeno se ha incrementado y recrudecido
-        significativamente. <strong>​</strong>
+        significativamente.
       </p>
       <p>
         La violencia contra niñas, jóvenes y mujeres es una violación a los
