@@ -66,6 +66,13 @@ const noticias = {
     desc: "La violencia laboral consiste en tomar una serie de acciones en contra de otro individuo en el entorno laboral, las cuales pueden ser ejercidas tanto por una figura de autoridad como por uno o más compañeros de trabajo del mismo rango.",
     autor: "Nataly Calizaya",
   },
+  10: {
+    img: "/10.jpeg",
+    url: "/noticias/10",
+    title: 'Violencia a la orientación sexual: El miedo a ser "Diferente"',
+    desc: "",
+    autor: "ARIANA COSSIO",
+  },
 };
 
 export default noticias;
