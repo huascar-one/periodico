@@ -5,7 +5,7 @@ import noticias from "../../noticias";
 export const Meta = ({ noticia }) => (
   <>
     <Head>
-      <title>{noticia.title}</title>
+      <title>{noticia.title} - El Golpe</title>
     </Head>
     <h1>{noticia.title}</h1> <h6>POR {noticia.autor.toUpperCase()}</h6>
     <p>{noticia.desc} </p>

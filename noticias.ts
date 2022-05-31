@@ -80,6 +80,13 @@ const noticias = {
     desc: "",
     autor: "Edward Dorado",
   },
+  12: {
+    img: "/12.jpeg",
+    url: "/noticias/12",
+    title: "Dignidad para los adultos mayores",
+    desc: "El envejecimiento es un proceso natural que debe ir acompañado de seguridad, dignidad y permanencia del disfrute de la vida, la salud, la integridad y la participación social. Con el aumento de la población de personas mayores, también se ha incrementado el maltrato.",
+    autor: "Alexander Villena",
+  },
 };
 
 export default noticias;

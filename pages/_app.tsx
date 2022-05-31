@@ -61,18 +61,20 @@ export default function App({ Component, pageProps }) {
           >
             <h3>Integrantes</h3>
             <ul>
-              <li>Wara Morales</li>
-              <li>Jhovani Suxo</li>
-              <li>Ariana Cossío</li>
-              <li>Delany Caceres</li>
-              <li>Josue Barrios</li>
-              <li>Johan Santiesteban</li>
-              <li>Deyby Loayza</li>
-              <li>Luis Cahuaya</li>
-              <li>Natali Calizaya</li>
-              <li>Cristhian Delgadillo</li>
-              <li>Edward Dorado</li>
-              <li>Alexander Villena</li>
+              <i>
+                <li>Wara Morales</li>
+                <li>Jhovani Suxo</li>
+                <li>Ariana Cossío</li>
+                <li>Delany Caceres</li>
+                <li>Josue Barrios</li>
+                <li>Johan Santiesteban</li>
+                <li>Deyby Loayza</li>
+                <li>Luis Cahuaya</li>
+                <li>Natali Calizaya</li>
+                <li>Cristhian Delgadillo</li>
+                <li>Edward Dorado</li>
+                <li>Alexander Villena</li>
+              </i>
             </ul>
           </div>
           <div
